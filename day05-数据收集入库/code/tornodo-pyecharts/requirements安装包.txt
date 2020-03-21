@@ -1,0 +1,17 @@
+tornado==5.1.1
+pymysql
+sqlalchemy
+sockjs-tornado
+pyecharts
+echarts-china-provinces-pypkg
+echarts-countries-pypkg
+echarts-cities-pypkg
+echarts-china-counties-pypkg
+echarts-china-misc-pypkg
+
+pyecharts-javascripthon==0.0.6
+pyecharts-jupyter-installer==0.0.3
+pyecharts-snapshot==0.2.0
+
+numpy==1.18.1
+pandas==0.23.4
